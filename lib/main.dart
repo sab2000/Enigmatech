@@ -2,8 +2,8 @@
 import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:Enigmatech/password_gate.dart';
-import 'package:Enigmatech/file_crypto_helper.dart';
+import 'package:enigmatech/password_gate.dart';
+import 'package:enigmatech/file_crypto_helper.dart';
 
 void main() async {
   // 1. Initialize Flutter bindings

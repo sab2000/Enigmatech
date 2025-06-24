@@ -3,8 +3,8 @@ import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:Enigmatech/password_helper.dart';
-import 'package:Enigmatech/encrypt_screen.dart';
+import 'package:enigmatech/password_helper.dart';
+import 'package:enigmatech/encrypt_screen.dart';
 
 class PasswordGate extends StatefulWidget {
   const PasswordGate({super.key});

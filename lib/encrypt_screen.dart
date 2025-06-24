@@ -3,8 +3,8 @@ import 'dart:convert';
 import 'dart:typed_data';
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:Enigmatech/file_crypto_helper.dart';
-import 'package:Enigmatech/password_gate.dart';
+import 'package:enigmatech/file_crypto_helper.dart';
+import 'package:enigmatech/password_gate.dart';
 
 class EncryptScreen extends StatefulWidget {
   const EncryptScreen({super.key});

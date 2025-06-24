@@ -27,9 +27,10 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - .env
+    - .env  # Make sure this file exists in your project root
 
-web:  # <-- REMOVE THE 2 SPACE INDENT HERE
+# ↓ Critical fix: Web config must be at ROOT level (no indentation) ↓
+web:
   runtime: release
   builders:
     universal_html:
