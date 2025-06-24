@@ -1,0 +1,782 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, 24 June, 2025 11:32:35 AM
+   Source : C:\Users\Asus\enigmator_techno\
+     Dest : C:\Users\Asus\Enigmatech\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPYALL /PURGE /MIR /NP /R:1 /W:1 
+
+------------------------------------------------------------------------------
+
+	                  12	C:\Users\Asus\enigmator_techno\
+	  *EXTRA File 		       0	copy_log.txt
+2025/06/24 11:32:35 ERROR 32 (0x00000020) Deleting Extra File C:\Users\Asus\Enigmatech\copy_log.txt
+The process cannot access the file because it is being used by another process.
+
+	    New File  		     311	.env
+	    New File  		    4455	.flutter-plugins-dependencies
+	    New File  		     754	.gitignore
+	    New File  		     964	.metadata
+	    New File  		    1448	analysis_options.yaml
+	    New File  		     859	enigmator_techno.iml
+	    New File  		     816	organize_enigmator.ps1
+	    New File  		    2565	password-gen.html
+	    New File  		     794	pubspec-Ori.yaml
+	    New File  		   23663	pubspec.lock
+	    New File  		     655	pubspec.yaml
+	    New File  		     575	README.md
+	  New Dir          4	C:\Users\Asus\enigmator_techno\.dart_tool\
+	    New File  		   20996	package_config.json
+	    New File  		   18755	package_config_subset
+	    New File  		   18742	package_graph.json
+	    New File  		       6	version
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\
+	  New Dir         39	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\
+	    New File  		   75776	Account Web Data
+	    New File  		       0	Account Web Data-journal
+	    New File  		   53248	Affiliation Database
+	    New File  		       0	Affiliation Database-journal
+	    New File  		       6	BookmarkMergedSurfaceOrdering
+	    New File  		   28672	BrowsingTopicsSiteData
+	    New File  		       0	BrowsingTopicsSiteData-journal
+	    New File  		     414	BrowsingTopicsState
+	    New File  		   36864	DIPS
+	    New File  		   24576	Favicons
+	    New File  		       0	Favicons-journal
+	    New File  		   16384	heavy_ad_intervention_opt_out.db
+	    New File  		       0	heavy_ad_intervention_opt_out.db-journal
+	    New File  		  163840	History
+	    New File  		       0	History-journal
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	    New File  		   40960	Login Data
+	    New File  		   40960	Login Data For Account
+	    New File  		       0	Login Data For Account-journal
+	    New File  		       0	Login Data-journal
+	    New File  		   61440	Network Action Predictor
+	    New File  		       0	Network Action Predictor-journal
+	    New File  		      66	passkey_enclave_state
+	    New File  		   13189	Preferences
+	    New File  		      33	PreferredApps
+	    New File  		     180	README
+	    New File  		   10928	Secure Preferences
+	    New File  		   20480	ServerCertificate
+	    New File  		       0	ServerCertificate-journal
+	    New File  		    4096	SharedStorage
+	    New File  		   20480	Shortcuts
+	    New File  		       0	Shortcuts-journal
+	    New File  		   20480	Top Sites
+	    New File  		       0	Top Sites-journal
+	    New File  		      38	trusted_vault.pb
+	    New File  		  141312	Web Data
+	    New File  		       0	Web Data-journal
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\AutofillStrikeDatabase\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\blob_storage\
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\blob_storage\12206f92-c06e-48e4-a20f-810652f16503\
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\blob_storage\1d9166b3-5835-427d-809f-9296fa42b6bb\
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\BudgetDatabase\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\chrome_cart_db\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\ClientCertificates\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\commerce_subscription_db\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\discounts_db\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Download Service\
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Download Service\EntryDB\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Download Service\Files\
+	  New Dir          5	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Extension Rules\
+	    New File  		      76	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     357	LOG
+	    New File  		      41	MANIFEST-000001
+	  New Dir          5	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Extension Scripts\
+	    New File  		      76	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     361	LOG
+	    New File  		      41	MANIFEST-000001
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Extension State\
+	    New File  		     228	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     400	LOG
+	    New File  		     357	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Feature Engagement Tracker\
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\GCM Store\
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\GCM Store\Encryption\
+	    New File  		       0	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     410	LOG
+	    New File  		     367	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Local Storage\
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Local Storage\leveldb\
+	    New File  		     208	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     412	LOG
+	    New File  		     369	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          9	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Network\
+	    New File  		   20480	Cookies
+	    New File  		       0	Cookies-journal
+	    New File  		    2399	Network Persistent State
+	    New File  		       0	NetworkDataMigrated
+	    New File  		   36864	Reporting and NEL
+	    New File  		       0	Reporting and NEL-journal
+	    New File  		     691	TransportSecurity
+	    New File  		   36864	Trust Tokens
+	    New File  		       0	Trust Tokens-journal
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\parcel_tracking_db\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\PersistentOriginTrials\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Safe Browsing Network\
+	    New File  		       0	NetworkDataMigrated
+	    New File  		   20480	Safe Browsing Cookies
+	    New File  		       0	Safe Browsing Cookies-journal
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Segmentation Platform\
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          3	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB\
+	    New File  		       0	LOCK
+	    New File  		       0	LOG
+	    New File  		       0	LOG.old
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Service Worker\
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Service Worker\Database\
+	    New File  		    3219	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     416	LOG
+	    New File  		     373	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\
+	    New File  		     472	2cc80dabc69f58b6_0
+	    New File  		     474	4cb013792b196a35_0
+	    New File  		     474	ba23d8ecda68de77_0
+	    New File  		   10353	f1cdccba37924bda_0
+	    New File  		    7129	f1cdccba37924bda_1
+	    New File  		      24	index
+	  New Dir          1	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\index-dir\
+	    New File  		     144	the-real-index
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Session Storage\
+	    New File  		     387	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     400	LOG
+	    New File  		     357	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          4	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Sessions\
+	    New File  		   18777	Session_13395175460444487
+	    New File  		    2957	Session_13395208529146783
+	    New File  		    4162	Tabs_13395176338619220
+	    New File  		    6050	Tabs_13395208529852693
+	  New Dir          2	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Shared Dictionary\
+	    New File  		   45056	db
+	    New File  		       0	db-journal
+	  New Dir          1	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Shared Dictionary\cache\
+	    New File  		      24	index
+	  New Dir          1	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Shared Dictionary\cache\index-dir\
+	    New File  		      48	the-real-index
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\shared_proto_db\
+	    New File  		  207663	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     400	LOG
+	    New File  		     357	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\shared_proto_db\metadata\
+	    New File  		    1024	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     418	LOG
+	    New File  		     375	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Site Characteristics Database\
+	    New File  		     190	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     428	LOG
+	    New File  		     385	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          0	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Sync Data\
+	  New Dir          6	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\Sync Data\LevelDB\
+	    New File  		     118	000003.log
+	    New File  		      16	CURRENT
+	    New File  		       0	LOCK
+	    New File  		     404	LOG
+	    New File  		     361	LOG.old
+	    New File  		      41	MANIFEST-000001
+	  New Dir          2	C:\Users\Asus\enigmator_techno\.dart_tool\chrome-device\Default\WebStorage\
+	    New File  		   40960	QuotaManager
+	    New File  		       0	QuotaManager-journal
+	  New Dir          1	C:\Users\Asus\enigmator_techno\.dart_tool\dartpad\
+	    New File  		     579	web_plugin_registrant.dart
+	  New Dir          2	C:\Users\Asus\enigmator_techno\.idea\
+	    New File  		     429	modules.xml
+	    New File  		    1553	workspace.xml
+	  New Dir          2	C:\Users\Asus\enigmator_techno\.idea\libraries\
+	    New File  		    1058	Dart_SDK.xml
+	    New File  		     614	KotlinJavaRuntime.xml
+	  New Dir          1	C:\Users\Asus\enigmator_techno\.idea\runConfigurations\
+	    New File  		     276	main_dart.xml
+	  New Dir          8	C:\Users\Asus\enigmator_techno\android\
+	    New File  		     267	.gitignore
+	    New File  		     536	build.gradle.kts
+	    New File  		    1630	enigmator_techno_android.iml
+	    New File  		     169	gradle.properties
+	    New File  		    4971	gradlew
+	    New File  		    2404	gradlew.bat
+	    New File  		      91	local.properties
+	    New File  		     763	settings.gradle.kts
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\
+	    New File  		    1448	build.gradle.kts
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\app\src\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\debug\
+	    New File  		     385	AndroidManifest.xml
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\
+	    New File  		    2249	AndroidManifest.xml
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\app\src\main\java\
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\app\src\main\java\io\
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\app\src\main\java\io\flutter\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\java\io\flutter\plugins\
+	    New File  		    1062	GeneratedPluginRegistrant.java
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\app\src\main\kotlin\
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\app\src\main\kotlin\com\
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\app\src\main\kotlin\com\example\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\kotlin\com\example\enigmator_techno\
+	    New File  		     135	MainActivity.kt
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\app\src\main\res\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\drawable\
+	    New File  		     446	launch_background.xml
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\drawable-v21\
+	    New File  		     450	launch_background.xml
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\mipmap-hdpi\
+	    New File  		     544	ic_launcher.png
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\mipmap-mdpi\
+	    New File  		     442	ic_launcher.png
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\mipmap-xhdpi\
+	    New File  		     721	ic_launcher.png
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\mipmap-xxhdpi\
+	    New File  		    1031	ic_launcher.png
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\mipmap-xxxhdpi\
+	    New File  		    1443	ic_launcher.png
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\values\
+	    New File  		    1014	styles.xml
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\main\res\values-night\
+	    New File  		    1013	styles.xml
+	  New Dir          1	C:\Users\Asus\enigmator_techno\android\app\src\profile\
+	    New File  		     385	AndroidManifest.xml
+	  New Dir          0	C:\Users\Asus\enigmator_techno\android\gradle\
+	  New Dir          2	C:\Users\Asus\enigmator_techno\android\gradle\wrapper\
+	    New File  		   53636	gradle-wrapper.jar
+	    New File  		     206	gradle-wrapper.properties
+	  New Dir          0	C:\Users\Asus\enigmator_techno\assets\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\assets\images\
+	    New File  		       2	.gitkeep
+	  New Dir          1	C:\Users\Asus\enigmator_techno\build\
+	    New File  		  47.6 m	b908bd3e048116115fd6fc7c9ea42fdd.cache.dill.track.dill
+	  New Dir          3	C:\Users\Asus\enigmator_techno\build\28f09108e03f350a4e51ffbf2ea489e4\
+	    New File  		      26	gen_dart_plugin_registrant.stamp
+	    New File  		      26	gen_localizations.stamp
+	    New File  		      26	_composite.stamp
+	  New Dir          6	C:\Users\Asus\enigmator_techno\build\flutter_assets\
+	    New File  		     311	.env
+	    New File  		      25	AssetManifest.bin
+	    New File  		      38	AssetManifest.bin.json
+	    New File  		      17	AssetManifest.json
+	    New File  		      82	FontManifest.json
+	    New File  		   1.6 m	NOTICES
+	  New Dir          1	C:\Users\Asus\enigmator_techno\build\flutter_assets\fonts\
+	    New File  		   1.5 m	MaterialIcons-Regular.otf
+	  New Dir          1	C:\Users\Asus\enigmator_techno\build\flutter_assets\shaders\
+	    New File  		    8867	ink_sparkle.frag
+	  New Dir          1	C:\Users\Asus\enigmator_techno\ios\
+	    New File  		     603	.gitignore
+	  New Dir          5	C:\Users\Asus\enigmator_techno\ios\Flutter\
+	    New File  		     800	AppFrameworkInfo.plist
+	    New File  		      31	Debug.xcconfig
+	    New File  		     526	flutter_export_environment.sh
+	    New File  		     496	Generated.xcconfig
+	    New File  		      31	Release.xcconfig
+	  New Dir          2	C:\Users\Asus\enigmator_techno\ios\Flutter\ephemeral\
+	    New File  		     108	flutter_lldbinit
+	    New File  		    1276	flutter_lldb_helper.py
+	  New Dir          5	C:\Users\Asus\enigmator_techno\ios\Runner\
+	    New File  		     404	AppDelegate.swift
+	    New File  		     378	GeneratedPluginRegistrant.h
+	    New File  		     770	GeneratedPluginRegistrant.m
+	    New File  		    1708	Info.plist
+	    New File  		      39	Runner-Bridging-Header.h
+	  New Dir          0	C:\Users\Asus\enigmator_techno\ios\Runner\Assets.xcassets\
+	  New Dir         16	C:\Users\Asus\enigmator_techno\ios\Runner\Assets.xcassets\AppIcon.appiconset\
+	    New File  		    2641	Contents.json
+	    New File  		   10932	Icon-App-1024x1024@1x.png
+	    New File  		     295	Icon-App-20x20@1x.png
+	    New File  		     406	Icon-App-20x20@2x.png
+	    New File  		     450	Icon-App-20x20@3x.png
+	    New File  		     282	Icon-App-29x29@1x.png
+	    New File  		     462	Icon-App-29x29@2x.png
+	    New File  		     704	Icon-App-29x29@3x.png
+	    New File  		     406	Icon-App-40x40@1x.png
+	    New File  		     586	Icon-App-40x40@2x.png
+	    New File  		     862	Icon-App-40x40@3x.png
+	    New File  		     862	Icon-App-60x60@2x.png
+	    New File  		    1674	Icon-App-60x60@3x.png
+	    New File  		     762	Icon-App-76x76@1x.png
+	    New File  		    1226	Icon-App-76x76@2x.png
+	    New File  		    1418	Icon-App-83.5x83.5@2x.png
+	  New Dir          5	C:\Users\Asus\enigmator_techno\ios\Runner\Assets.xcassets\LaunchImage.imageset\
+	    New File  		     414	Contents.json
+	    New File  		      68	LaunchImage.png
+	    New File  		      68	LaunchImage@2x.png
+	    New File  		      68	LaunchImage@3x.png
+	    New File  		     340	README.md
+	  New Dir          2	C:\Users\Asus\enigmator_techno\ios\Runner\Base.lproj\
+	    New File  		    2414	LaunchScreen.storyboard
+	    New File  		    1631	Main.storyboard
+	  New Dir          1	C:\Users\Asus\enigmator_techno\ios\Runner.xcodeproj\
+	    New File  		   24312	project.pbxproj
+	  New Dir          1	C:\Users\Asus\enigmator_techno\ios\Runner.xcodeproj\project.xcworkspace\
+	    New File  		     142	contents.xcworkspacedata
+	  New Dir          2	C:\Users\Asus\enigmator_techno\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\
+	    New File  		     246	IDEWorkspaceChecks.plist
+	    New File  		     234	WorkspaceSettings.xcsettings
+	  New Dir          0	C:\Users\Asus\enigmator_techno\ios\Runner.xcodeproj\xcshareddata\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\ios\Runner.xcodeproj\xcshareddata\xcschemes\
+	    New File  		    3934	Runner.xcscheme
+	  New Dir          1	C:\Users\Asus\enigmator_techno\ios\Runner.xcworkspace\
+	    New File  		     159	contents.xcworkspacedata
+	  New Dir          2	C:\Users\Asus\enigmator_techno\ios\Runner.xcworkspace\xcshareddata\
+	    New File  		     246	IDEWorkspaceChecks.plist
+	    New File  		     234	WorkspaceSettings.xcsettings
+	  New Dir          1	C:\Users\Asus\enigmator_techno\ios\RunnerTests\
+	    New File  		     297	RunnerTests.swift
+	  New Dir         10	C:\Users\Asus\enigmator_techno\lib\
+	    New File  		   15556	encrypt_screen-Ori.dart
+	    New File  		   16473	encrypt_screen.dart
+	    New File  		    2202	file_crypto_helper.dart
+	    New File  		     562	file_crypto_page-Ori.dart
+	    New File  		     597	file_crypto_page.dart
+	    New File  		    3878	main.dart
+	    New File  		    9550	password_gate-2nd-Oridart
+	    New File  		    3333	password_gate-Ori.dart
+	    New File  		   10076	password_gate.dart
+	    New File  		    2050	password_helper.dart
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\
+	    New File  		      19	.gitignore
+	    New File  		    4899	CMakeLists.txt
+	  New Dir          4	C:\Users\Asus\enigmator_techno\linux\flutter\
+	    New File  		    2903	CMakeLists.txt
+	    New File  		     760	generated_plugins.cmake
+	    New File  		     434	generated_plugin_registrant.cc
+	    New File  		     303	generated_plugin_registrant.h
+	  New Dir          0	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\
+	  New Dir          0	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\
+	  New Dir          5	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\
+	    New File  		    2454	AUTHORS
+	    New File  		    2571	CHANGELOG.md
+	    New File  		    1519	LICENSE
+	    New File  		     758	pubspec.yaml
+	    New File  		     573	README.md
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\
+	    New File  		     710	pubspec.yaml
+	    New File  		     380	README.md
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\integration_test\
+	    New File  		    2426	path_provider_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\lib\
+	    New File  		    3335	main.dart
+	  New Dir          4	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\linux\
+	    New File  		    3697	CMakeLists.txt
+	    New File  		     514	main.cc
+	    New File  		    1630	my_application.cc
+	    New File  		     553	my_application.h
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\linux\flutter\
+	    New File  		    2714	CMakeLists.txt
+	    New File  		     739	generated_plugins.cmake
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\test_driver\
+	    New File  		     274	integration_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\lib\
+	    New File  		     204	path_provider_linux.dart
+	  New Dir          4	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\lib\src\
+	    New File  		     441	get_application_id.dart
+	    New File  		    2361	get_application_id_real.dart
+	    New File  		     243	get_application_id_stub.dart
+	    New File  		    3404	path_provider_linux.dart
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\test\
+	    New File  		    1642	get_application_id_test.dart
+	    New File  		    2871	path_provider_linux_test.dart
+	  New Dir          5	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\
+	    New File  		    2454	AUTHORS
+	    New File  		    2266	CHANGELOG.md
+	    New File  		    1519	LICENSE
+	    New File  		     839	pubspec.yaml
+	    New File  		     538	README.md
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\example\
+	    New File  		     773	pubspec.yaml
+	    New File  		     380	README.md
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\example\integration_test\
+	    New File  		   23102	shared_preferences_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\example\lib\
+	    New File  		    3019	main.dart
+	  New Dir          4	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\example\linux\
+	    New File  		    3180	CMakeLists.txt
+	    New File  		     345	main.cc
+	    New File  		    1589	my_application.cc
+	    New File  		     553	my_application.h
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\example\linux\flutter\
+	    New File  		    2714	CMakeLists.txt
+	    New File  		     739	generated_plugins.cmake
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\example\test_driver\
+	    New File  		     274	integration_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\lib\
+	    New File  		   12612	shared_preferences_linux.dart
+	  New Dir          3	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\shared_preferences_linux\test\
+	    New File  		    1085	fake_path_provider_linux.dart
+	    New File  		    8034	legacy_shared_preferences_linux_test.dart
+	    New File  		    7858	shared_preferences_linux_async_test.dart
+	  New Dir          5	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\
+	    New File  		    2454	AUTHORS
+	    New File  		    2486	CHANGELOG.md
+	    New File  		    1519	LICENSE
+	    New File  		     756	pubspec.yaml
+	    New File  		     514	README.md
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\example\
+	    New File  		     731	pubspec.yaml
+	    New File  		     380	README.md
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\example\integration_test\
+	    New File  		     757	url_launcher_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\example\lib\
+	    New File  		    2548	main.dart
+	  New Dir          4	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\example\linux\
+	    New File  		    3392	CMakeLists.txt
+	    New File  		     345	main.cc
+	    New File  		    1589	my_application.cc
+	    New File  		     553	my_application.h
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\example\linux\flutter\
+	    New File  		    2742	CMakeLists.txt
+	    New File  		     760	generated_plugins.cmake
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\example\test_driver\
+	    New File  		     274	integration_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\lib\
+	    New File  		    2374	url_launcher_linux.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\lib\src\
+	    New File  		    4270	messages.g.dart
+	  New Dir          5	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\linux\
+	    New File  		    2267	CMakeLists.txt
+	    New File  		   12162	messages.g.cc
+	    New File  		    4259	messages.g.h
+	    New File  		    3657	url_launcher_plugin.cc
+	    New File  		     442	url_launcher_plugin_private.h
+	  New Dir          0	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\linux\include\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\linux\include\url_launcher_linux\
+	    New File  		    1042	url_launcher_plugin.h
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\linux\test\
+	    New File  		    3391	url_launcher_linux_test.cc
+	  New Dir          2	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\pigeons\
+	    New File  		     155	copyright.txt
+	    New File  		     694	messages.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\linux\flutter\ephemeral\.plugin_symlinks\url_launcher_linux\test\
+	    New File  		    5834	url_launcher_linux_test.dart
+	  New Dir          4	C:\Users\Asus\enigmator_techno\linux\runner\
+	    New File  		    1000	CMakeLists.txt
+	    New File  		     186	main.cc
+	    New File  		    4896	my_application.cc
+	    New File  		     406	my_application.h
+	  New Dir          1	C:\Users\Asus\enigmator_techno\macos\
+	    New File  		      96	.gitignore
+	  New Dir          3	C:\Users\Asus\enigmator_techno\macos\Flutter\
+	    New File  		      49	Flutter-Debug.xcconfig
+	    New File  		      49	Flutter-Release.xcconfig
+	    New File  		     396	GeneratedPluginRegistrant.swift
+	  New Dir          2	C:\Users\Asus\enigmator_techno\macos\Flutter\ephemeral\
+	    New File  		     389	Flutter-Generated.xcconfig
+	    New File  		     488	flutter_export_environment.sh
+	  New Dir          5	C:\Users\Asus\enigmator_techno\macos\Runner\
+	    New File  		     324	AppDelegate.swift
+	    New File  		     360	DebugProfile.entitlements
+	    New File  		    1092	Info.plist
+	    New File  		     403	MainFlutterWindow.swift
+	    New File  		     248	Release.entitlements
+	  New Dir          0	C:\Users\Asus\enigmator_techno\macos\Runner\Assets.xcassets\
+	  New Dir          8	C:\Users\Asus\enigmator_techno\macos\Runner\Assets.xcassets\AppIcon.appiconset\
+	    New File  		  102994	app_icon_1024.png
+	    New File  		    5680	app_icon_128.png
+	    New File  		     520	app_icon_16.png
+	    New File  		   14142	app_icon_256.png
+	    New File  		    1066	app_icon_32.png
+	    New File  		   36406	app_icon_512.png
+	    New File  		    2218	app_icon_64.png
+	    New File  		    1359	Contents.json
+	  New Dir          1	C:\Users\Asus\enigmator_techno\macos\Runner\Base.lproj\
+	    New File  		   24072	MainMenu.xib
+	  New Dir          4	C:\Users\Asus\enigmator_techno\macos\Runner\Configs\
+	    New File  		     632	AppInfo.xcconfig
+	    New File  		      79	Debug.xcconfig
+	    New File  		      81	Release.xcconfig
+	    New File  		     593	Warnings.xcconfig
+	  New Dir          1	C:\Users\Asus\enigmator_techno\macos\Runner.xcodeproj\
+	    New File  		   27165	project.pbxproj
+	  New Dir          0	C:\Users\Asus\enigmator_techno\macos\Runner.xcodeproj\project.xcworkspace\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\
+	    New File  		     246	IDEWorkspaceChecks.plist
+	  New Dir          0	C:\Users\Asus\enigmator_techno\macos\Runner.xcodeproj\xcshareddata\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\macos\Runner.xcodeproj\xcshareddata\xcschemes\
+	    New File  		    3822	Runner.xcscheme
+	  New Dir          1	C:\Users\Asus\enigmator_techno\macos\Runner.xcworkspace\
+	    New File  		     159	contents.xcworkspacedata
+	  New Dir          1	C:\Users\Asus\enigmator_techno\macos\Runner.xcworkspace\xcshareddata\
+	    New File  		     246	IDEWorkspaceChecks.plist
+	  New Dir          1	C:\Users\Asus\enigmator_techno\macos\RunnerTests\
+	    New File  		     302	RunnerTests.swift
+	  New Dir          1	C:\Users\Asus\enigmator_techno\test\
+	    New File  		    1097	widget_test.dart
+	  New Dir          4	C:\Users\Asus\enigmator_techno\web\
+	    New File  		     917	favicon.png
+	    New File  		    1268	index.html
+	    New File  		     963	manifest.json
+	    New File  		   19072	password-gen.html
+	  New Dir          4	C:\Users\Asus\enigmator_techno\web\icons\
+	    New File  		    5292	Icon-192.png
+	    New File  		    8252	Icon-512.png
+	    New File  		    5594	Icon-maskable-192.png
+	    New File  		   20998	Icon-maskable-512.png
+	  New Dir          2	C:\Users\Asus\enigmator_techno\windows\
+	    New File  		     308	.gitignore
+	    New File  		    4276	CMakeLists.txt
+	  New Dir          4	C:\Users\Asus\enigmator_techno\windows\flutter\
+	    New File  		    3851	CMakeLists.txt
+	    New File  		     766	generated_plugins.cmake
+	    New File  		     324	generated_plugin_registrant.cc
+	    New File  		     302	generated_plugin_registrant.h
+	  New Dir          0	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\
+	  New Dir          0	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\
+	  New Dir          5	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\
+	    New File  		    2454	AUTHORS
+	    New File  		    2606	CHANGELOG.md
+	    New File  		    1519	LICENSE
+	    New File  		     712	pubspec.yaml
+	    New File  		     522	README.md
+	  New Dir          2	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\
+	    New File  		     697	pubspec.yaml
+	    New File  		     380	README.md
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\integration_test\
+	    New File  		    2394	path_provider_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\lib\
+	    New File  		    2992	main.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\test_driver\
+	    New File  		     274	integration_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\windows\
+	    New File  		    3419	CMakeLists.txt
+	  New Dir          2	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\windows\flutter\
+	    New File  		    3637	CMakeLists.txt
+	    New File  		     743	generated_plugins.cmake
+	  New Dir         13	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\windows\runner\
+	    New File  		     589	CMakeLists.txt
+	    New File  		    2139	flutter_window.cpp
+	    New File  		    1263	flutter_window.h
+	    New File  		    1218	main.cpp
+	    New File  		     380	resource.h
+	    New File  		     859	runner.exe.manifest
+	    New File  		    3040	Runner.rc
+	    New File  		    2311	run_loop.cpp
+	    New File  		    1167	run_loop.h
+	    New File  		     634	utils.cpp
+	    New File  		     397	utils.h
+	    New File  		    7051	win32_window.cpp
+	    New File  		    3427	win32_window.h
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\windows\runner\resources\
+	    New File  		   33772	app_icon.ico
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\lib\
+	    New File  		     531	path_provider_windows.dart
+	  New Dir          6	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\lib\src\
+	    New File  		   12720	folders.dart
+	    New File  		     231	folders_stub.dart
+	    New File  		    1662	guid.dart
+	    New File  		    9670	path_provider_windows_real.dart
+	    New File  		    1494	path_provider_windows_stub.dart
+	    New File  		    5013	win32_wrappers.dart
+	  New Dir          2	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\test\
+	    New File  		    2075	guid_test.dart
+	    New File  		    7526	path_provider_windows_test.dart
+	  New Dir          5	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\
+	    New File  		    2454	AUTHORS
+	    New File  		    2161	CHANGELOG.md
+	    New File  		    1519	LICENSE
+	    New File  		     840	pubspec.yaml
+	    New File  		     542	README.md
+	  New Dir          4	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\example\
+	    New File  		    2433	AUTHORS
+	    New File  		    1519	LICENSE
+	    New File  		     781	pubspec.yaml
+	    New File  		     380	README.md
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\example\integration_test\
+	    New File  		   22945	shared_preferences_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\example\lib\
+	    New File  		    3027	main.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\example\test_driver\
+	    New File  		     274	integration_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\example\windows\
+	    New File  		    3419	CMakeLists.txt
+	  New Dir          2	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\example\windows\flutter\
+	    New File  		    3622	CMakeLists.txt
+	    New File  		     743	generated_plugins.cmake
+	  New Dir         13	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\example\windows\runner\
+	    New File  		     589	CMakeLists.txt
+	    New File  		    2139	flutter_window.cpp
+	    New File  		    1263	flutter_window.h
+	    New File  		    1218	main.cpp
+	    New File  		     380	resource.h
+	    New File  		     859	runner.exe.manifest
+	    New File  		    3040	Runner.rc
+	    New File  		    2311	run_loop.cpp
+	    New File  		    1167	run_loop.h
+	    New File  		     634	utils.cpp
+	    New File  		     397	utils.h
+	    New File  		    7051	win32_window.cpp
+	    New File  		    3427	win32_window.h
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\example\windows\runner\resources\
+	    New File  		   33772	app_icon.ico
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\lib\
+	    New File  		   12744	shared_preferences_windows.dart
+	  New Dir          3	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\shared_preferences_windows\test\
+	    New File  		    1227	fake_path_provider_windows.dart
+	    New File  		    8120	legacy_shared_preferences_windows_test.dart
+	    New File  		    7900	shared_preferences_windows_async_test.dart
+	  New Dir          5	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\
+	    New File  		    2454	AUTHORS
+	    New File  		    2582	CHANGELOG.md
+	    New File  		    1519	LICENSE
+	    New File  		     767	pubspec.yaml
+	    New File  		     518	README.md
+	  New Dir          2	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\example\
+	    New File  		     754	pubspec.yaml
+	    New File  		     380	README.md
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\example\integration_test\
+	    New File  		     757	url_launcher_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\example\lib\
+	    New File  		    2548	main.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\example\test_driver\
+	    New File  		     274	integration_test.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\example\windows\
+	    New File  		    3635	CMakeLists.txt
+	  New Dir          2	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\example\windows\flutter\
+	    New File  		    3637	CMakeLists.txt
+	    New File  		     766	generated_plugins.cmake
+	  New Dir         13	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\example\windows\runner\
+	    New File  		     589	CMakeLists.txt
+	    New File  		    2139	flutter_window.cpp
+	    New File  		    1263	flutter_window.h
+	    New File  		    1218	main.cpp
+	    New File  		     380	resource.h
+	    New File  		     859	runner.exe.manifest
+	    New File  		    3040	Runner.rc
+	    New File  		    2311	run_loop.cpp
+	    New File  		    1167	run_loop.h
+	    New File  		     634	utils.cpp
+	    New File  		     397	utils.h
+	    New File  		    7051	win32_window.cpp
+	    New File  		    3427	win32_window.h
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\example\windows\runner\resources\
+	    New File  		   33772	app_icon.ico
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\lib\
+	    New File  		    1709	url_launcher_windows.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\lib\src\
+	    New File  		    3930	messages.g.dart
+	  New Dir          2	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\pigeons\
+	    New File  		     155	copyright.txt
+	    New File  		     612	messages.dart
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\test\
+	    New File  		    4794	url_launcher_windows_test.dart
+	  New Dir          8	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\
+	    New File  		    2555	CMakeLists.txt
+	    New File  		    5366	messages.g.cpp
+	    New File  		    3538	messages.g.h
+	    New File  		    1329	system_apis.cpp
+	    New File  		    2058	system_apis.h
+	    New File  		    4487	url_launcher_plugin.cpp
+	    New File  		    1226	url_launcher_plugin.h
+	    New File  		     597	url_launcher_windows.cpp
+	  New Dir          0	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\include\
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\include\url_launcher_windows\
+	    New File  		     899	url_launcher_windows.h
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\flutter\ephemeral\.plugin_symlinks\url_launcher_windows\windows\test\
+	    New File  		    6336	url_launcher_windows_test.cpp
+	  New Dir         11	C:\Users\Asus\enigmator_techno\windows\runner\
+	    New File  		    1836	CMakeLists.txt
+	    New File  		    2193	flutter_window.cpp
+	    New File  		     961	flutter_window.h
+	    New File  		    1312	main.cpp
+	    New File  		     448	resource.h
+	    New File  		     616	runner.exe.manifest
+	    New File  		    3182	Runner.rc
+	    New File  		    1862	utils.cpp
+	    New File  		     691	utils.h
+	    New File  		    8822	win32_window.cpp
+	    New File  		    3624	win32_window.h
+	  New Dir          1	C:\Users\Asus\enigmator_techno\windows\runner\resources\
+	    New File  		   33772	app_icon.ico
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       208       207         1         0         0         0
+   Files :       541       541         0         0         0         1
+   Bytes :   53.20 m   53.20 m         0         0         0         0
+   Times :   0:00:01   0:00:01                       0:00:00   0:00:00
+
+
+   Speed :            44240760 Bytes/sec.
+   Speed :            2531.476 MegaBytes/min.
+   Ended : Tuesday, 24 June, 2025 11:32:37 AM
+
